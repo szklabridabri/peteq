@@ -1,0 +1,77 @@
+{
+  "0d02dee9-0f91-488e-8d7a-7fbb6f3ddd4d": {
+    "id": "0d02dee9-0f91-488e-8d7a-7fbb6f3ddd4d",
+    "name": "test",
+    "level": 1,
+    "experience": 0,
+    "members": [
+      {
+        "id": "player_1763732867859",
+        "name": "Plejer",
+        "role": "leader",
+        "joinDate": "2025-11-21T13:55:07.664Z"
+      }
+    ],
+    "created": "2025-11-21T13:55:07.664Z"
+  },
+  "f4e26d71-fb2c-45e2-af20-c06c49bd257f": {
+    "id": "f4e26d71-fb2c-45e2-af20-c06c49bd257f",
+    "name": "test",
+    "level": 1,
+    "experience": 0,
+    "members": [
+      {
+        "id": "player_1763732867859",
+        "name": "Plejer",
+        "role": "leader",
+        "joinDate": "2025-11-21T13:55:11.107Z"
+      }
+    ],
+    "created": "2025-11-21T13:55:11.107Z"
+  },
+  "88861941-ebea-4945-ab8d-bf2bfdca38de": {
+    "id": "88861941-ebea-4945-ab8d-bf2bfdca38de",
+    "name": "test",
+    "level": 1,
+    "experience": 0,
+    "members": [
+      {
+        "id": "player_1763732867859",
+        "name": "Plejer",
+        "role": "leader",
+        "joinDate": "2025-11-21T13:55:19.727Z"
+      }
+    ],
+    "created": "2025-11-21T13:55:19.727Z"
+  },
+  "d6e73b5c-0ef4-46bb-aaf9-463857a78378": {
+    "id": "d6e73b5c-0ef4-46bb-aaf9-463857a78378",
+    "name": "test",
+    "level": 1,
+    "experience": 0,
+    "members": [
+      {
+        "id": "player_1763732867859",
+        "name": "Plejer",
+        "role": "leader",
+        "joinDate": "2025-11-21T13:55:21.710Z"
+      }
+    ],
+    "created": "2025-11-21T13:55:21.710Z"
+  },
+  "643c0b9e-4fa3-410e-9bf4-4a75978fbb97": {
+    "id": "643c0b9e-4fa3-410e-9bf4-4a75978fbb97",
+    "name": "test",
+    "level": 1,
+    "experience": 0,
+    "members": [
+      {
+        "id": "player_1763732867859",
+        "name": "Plejer",
+        "role": "leader",
+        "joinDate": "2025-11-21T13:55:25.111Z"
+      }
+    ],
+    "created": "2025-11-21T13:55:25.111Z"
+  }
+}

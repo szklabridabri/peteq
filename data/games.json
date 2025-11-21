@@ -1,0 +1,1914 @@
+{
+  "player_1763732867859": {
+    "playerId": "player_1763732867859",
+    "playerName": "Plejer",
+    "money": 1056,
+    "totalMoney": 1336,
+    "breakablesDestroyed": 237,
+    "keys": 3,
+    "gifts": 2,
+    "pets": [
+      {
+        "id": 1,
+        "level": 1,
+        "damage": 1,
+        "speed": 1,
+        "name": "Starter Pet",
+        "position": {
+          "x": 100,
+          "y": 100
+        },
+        "working": false
+      },
+      {
+        "id": 1763733212453,
+        "level": 1,
+        "damage": 1,
+        "speed": 1,
+        "position": {
+          "x": 254.0285354210035,
+          "y": 401.57005319815
+        },
+        "working": false
+      },
+      {
+        "id": 1763733296307,
+        "level": 1,
+        "damage": 1,
+        "speed": 1,
+        "position": {
+          "x": 344.36478952795056,
+          "y": 585.1635637781885
+        },
+        "working": false
+      },
+      {
+        "id": 1763733334019,
+        "level": 1,
+        "damage": 1,
+        "speed": 1,
+        "position": {
+          "x": 358.0960131578488,
+          "y": 253.01826832731433
+        },
+        "working": false
+      }
+    ],
+    "inventory": [
+      {
+        "name": "Mikstura",
+        "rarity": "common",
+        "effect": "Tymczasowy boost",
+        "id": 1763733355760
+      },
+      {
+        "name": "Mikstura",
+        "rarity": "common",
+        "effect": "Tymczasowy boost",
+        "id": 1763733383146
+      },
+      {
+        "name": "Prezent",
+        "rarity": "rare",
+        "effect": "Zawiera losowe przedmioty",
+        "id": 1763733398489
+      },
+      {
+        "name": "Mikstura",
+        "rarity": "common",
+        "effect": "Tymczasowy boost",
+        "id": 1763733526843
+      },
+      {
+        "name": "Zaklęcie",
+        "rarity": "rare",
+        "effect": "Stałe wzmocnienie",
+        "id": 1763733639496
+      },
+      {
+        "name": "Klucz",
+        "rarity": "rare",
+        "effect": "Otwiera Ultra-Loot Chest",
+        "id": 1763733639497
+      },
+      {
+        "name": "Zaklęcie",
+        "rarity": "rare",
+        "effect": "Stałe wzmocnienie",
+        "id": 1763733639498
+      },
+      {
+        "name": "Zaklęcie",
+        "rarity": "rare",
+        "effect": "Stałe wzmocnienie",
+        "id": 1763733651778
+      },
+      {
+        "name": "Mikstura",
+        "rarity": "common",
+        "effect": "Tymczasowy boost",
+        "id": 1763733663906
+      },
+      {
+        "name": "Mikstura",
+        "rarity": "common",
+        "effect": "Tymczasowy boost",
+        "id": 1763733685269
+      },
+      {
+        "name": "Zaklęcie",
+        "rarity": "rare",
+        "effect": "Stałe wzmocnienie",
+        "id": 1763733694435
+      },
+      {
+        "name": "Klucz",
+        "rarity": "rare",
+        "effect": "Otwiera Ultra-Loot Chest",
+        "id": 1763733734038
+      },
+      {
+        "name": "Zaklęcie",
+        "rarity": "rare",
+        "effect": "Stałe wzmocnienie",
+        "id": 1763733740103
+      },
+      {
+        "name": "Zaklęcie",
+        "rarity": "rare",
+        "effect": "Stałe wzmocnienie",
+        "id": 1763733764593
+      },
+      {
+        "name": "Mikstura",
+        "rarity": "common",
+        "effect": "Tymczasowy boost",
+        "id": 1763733773714
+      }
+    ],
+    "clans": [
+      {
+        "id": "0d02dee9-0f91-488e-8d7a-7fbb6f3ddd4d",
+        "name": "test",
+        "level": 1,
+        "experience": 0,
+        "members": [
+          {
+            "id": "player_1763732867859",
+            "name": "Plejer",
+            "role": "leader",
+            "joinDate": "2025-11-21T13:55:07.664Z"
+          }
+        ],
+        "created": "2025-11-21T13:55:07.664Z"
+      },
+      {
+        "id": "f4e26d71-fb2c-45e2-af20-c06c49bd257f",
+        "name": "test",
+        "level": 1,
+        "experience": 0,
+        "members": [
+          {
+            "id": "player_1763732867859",
+            "name": "Plejer",
+            "role": "leader",
+            "joinDate": "2025-11-21T13:55:11.107Z"
+          }
+        ],
+        "created": "2025-11-21T13:55:11.107Z"
+      },
+      {
+        "id": "88861941-ebea-4945-ab8d-bf2bfdca38de",
+        "name": "test",
+        "level": 1,
+        "experience": 0,
+        "members": [
+          {
+            "id": "player_1763732867859",
+            "name": "Plejer",
+            "role": "leader",
+            "joinDate": "2025-11-21T13:55:19.727Z"
+          }
+        ],
+        "created": "2025-11-21T13:55:19.727Z"
+      },
+      {
+        "id": "d6e73b5c-0ef4-46bb-aaf9-463857a78378",
+        "name": "test",
+        "level": 1,
+        "experience": 0,
+        "members": [
+          {
+            "id": "player_1763732867859",
+            "name": "Plejer",
+            "role": "leader",
+            "joinDate": "2025-11-21T13:55:21.710Z"
+          }
+        ],
+        "created": "2025-11-21T13:55:21.710Z"
+      },
+      {
+        "id": "643c0b9e-4fa3-410e-9bf4-4a75978fbb97",
+        "name": "test",
+        "level": 1,
+        "experience": 0,
+        "members": [
+          {
+            "id": "player_1763732867859",
+            "name": "Plejer",
+            "role": "leader",
+            "joinDate": "2025-11-21T13:55:25.111Z"
+          }
+        ],
+        "created": "2025-11-21T13:55:25.111Z"
+      }
+    ],
+    "playerClan": "643c0b9e-4fa3-410e-9bf4-4a75978fbb97",
+    "enchants": [
+      {
+        "name": "Zaklęcie",
+        "rarity": "rare",
+        "effect": "Stałe wzmocnienie",
+        "id": 1763733156540
+      },
+      {
+        "name": "Zaklęcie",
+        "rarity": "rare",
+        "effect": "Stałe wzmocnienie",
+        "id": 1763733283932
+      },
+      {
+        "name": "Zaklęcie",
+        "rarity": "rare",
+        "effect": "Stałe wzmocnienie",
+        "id": 1763733325191
+      }
+    ],
+    "playTime": 622,
+    "gameHistory": [
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:52:24.364Z",
+        "breakableType": "Rzadki",
+        "value": 5,
+        "petId": 1
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:52:27.460Z",
+        "breakableType": "Rzadki",
+        "value": 5,
+        "petId": 1
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:52:27.556Z",
+        "breakableType": "Rzadki",
+        "value": 5,
+        "petId": "player"
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:52:35.543Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": "player"
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:52:36.341Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": "player"
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:52:36.540Z",
+        "breakableType": "Rzadki",
+        "value": 5,
+        "petId": 1
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:52:38.996Z",
+        "breakableType": "Rzadki",
+        "value": 5,
+        "petId": "player"
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:52:42.513Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:52:48.584Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:52:50.051Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": "player"
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:53:06.648Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:53:12.725Z",
+        "breakableType": "Rzadki",
+        "value": 5,
+        "petId": "player"
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:53:16.467Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": "player"
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:53:17.268Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": "player"
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:53:18.690Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:53:19.000Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": "player"
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:53:19.204Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": "player"
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:53:19.597Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": "player"
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:53:20.291Z",
+        "breakableType": "Epicki",
+        "value": 20,
+        "petId": "player"
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:53:21.731Z",
+        "breakableType": "Rzadki",
+        "value": 5,
+        "petId": "player"
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:53:26.589Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": "player"
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:53:27.187Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": "player"
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:53:27.781Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": "player"
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:53:28.387Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": "player"
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:53:29.197Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": "player"
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:53:29.791Z",
+        "breakableType": "Rzadki",
+        "value": 5,
+        "petId": "player"
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:53:30.699Z",
+        "breakableType": "Epicki",
+        "value": 20,
+        "petId": "player"
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:53:30.701Z",
+        "breakableType": "Rzadki",
+        "value": 5,
+        "petId": 1
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:53:33.694Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:53:39.734Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:53:42.765Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:53:43.632Z",
+        "breakableType": "Rzadki",
+        "value": 5,
+        "petId": "player"
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:53:51.612Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": "player"
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:53:51.862Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:53:52.885Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": "player"
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:54:00.877Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733212453
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:54:06.808Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": "player"
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:54:06.882Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733212453
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:54:07.638Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": "player"
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:54:08.436Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": "player"
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:54:08.749Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": "player"
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:54:09.315Z",
+        "breakableType": "Rzadki",
+        "value": 5,
+        "petId": "player"
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:54:09.800Z",
+        "breakableType": "Epicki",
+        "value": 20,
+        "petId": "player"
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:54:11.804Z",
+        "breakableType": "Rzadki",
+        "value": 5,
+        "petId": "player"
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:54:14.260Z",
+        "breakableType": "Epicki",
+        "value": 20,
+        "petId": "player"
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:54:15.962Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733212453
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:54:16.045Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": "player"
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:54:21.300Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": "player"
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:54:24.926Z",
+        "breakableType": "Rzadki",
+        "value": 5,
+        "petId": 1
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:54:24.926Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733212453
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:54:27.619Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": "player"
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:54:27.932Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733212453
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:54:30.228Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": "player"
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:54:31.048Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": "player"
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:54:31.812Z",
+        "breakableType": "Rzadki",
+        "value": 5,
+        "petId": "player"
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:54:32.828Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": "player"
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:54:33.966Z",
+        "breakableType": "Rzadki",
+        "value": 5,
+        "petId": 1
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:54:34.044Z",
+        "breakableType": "Rzadki",
+        "value": 5,
+        "petId": "player"
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:54:34.829Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": "player"
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:54:35.084Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": "player"
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:54:36.312Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": "player"
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:54:36.567Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": "player"
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:54:36.958Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:54:38.531Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": "player"
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:54:49.004Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:54:49.004Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733212453
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:54:52.021Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733212453
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:54:54.640Z",
+        "breakableType": "Epicki",
+        "value": 20,
+        "petId": "player"
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:54:55.029Z",
+        "breakableType": "Rzadki",
+        "value": 5,
+        "petId": 1
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:54:55.501Z",
+        "breakableType": "Epicki",
+        "value": 20,
+        "petId": "player"
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:54:58.035Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733296307
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:54:59.148Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": "player"
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:55:01.046Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733212453
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:55:01.046Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733296307
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:55:07.068Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733212453
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:55:07.068Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733296307
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:55:13.106Z",
+        "breakableType": "Rzadki",
+        "value": 5,
+        "petId": 1763733296307
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:55:22.175Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733212453
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:55:25.191Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733296307
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:55:31.220Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733212453
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:55:31.949Z",
+        "breakableType": "Epicki",
+        "value": 20,
+        "petId": "player"
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:55:33.012Z",
+        "breakableType": "Epicki",
+        "value": 20,
+        "petId": "player"
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:55:34.226Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:55:40.294Z",
+        "breakableType": "Rzadki",
+        "value": 5,
+        "petId": 1
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:55:40.294Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733296307
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:55:43.324Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733296307
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:55:46.329Z",
+        "breakableType": "Epicki",
+        "value": 20,
+        "petId": 1763733212453
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:55:46.329Z",
+        "breakableType": "Epicki",
+        "value": 20,
+        "petId": 1763733296307
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:55:49.678Z",
+        "breakableType": "Rzadki",
+        "value": 5,
+        "petId": 1763733334019
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:55:52.726Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733212453
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:55:52.726Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733334019
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:55:55.760Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:55:58.791Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733212453
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:55:58.791Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733296307
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:56:01.860Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:56:04.887Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733212453
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:56:07.913Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733296307
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:56:07.914Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733334019
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:56:10.986Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733296307
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:56:14.022Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:56:14.022Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733334019
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:56:17.056Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733334019
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:56:20.107Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:56:23.146Z",
+        "breakableType": "Legendarny",
+        "value": 100,
+        "petId": 1763733334019
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:56:26.237Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733212453
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:56:29.295Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:56:35.419Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733334019
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:56:38.489Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:56:38.489Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733296307
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:56:44.559Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733212453
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:56:44.559Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733296307
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:56:47.591Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:56:47.591Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733212453
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:56:50.660Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733212453
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:56:50.660Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733334019
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:56:53.748Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:56:53.748Z",
+        "breakableType": "Rzadki",
+        "value": 5,
+        "petId": 1763733296307
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:56:59.875Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:56:59.875Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733212453
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:57:02.911Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:57:02.911Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733296307
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:57:05.999Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:57:09.062Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733212453
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:57:12.112Z",
+        "breakableType": "Epicki",
+        "value": 20,
+        "petId": 1763733296307
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:57:15.205Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:57:18.268Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733212453
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:57:21.302Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733212453
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:57:21.302Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733334019
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:57:24.340Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733212453
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:57:24.340Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733296307
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:57:27.390Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733212453
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:57:27.390Z",
+        "breakableType": "Legendarny",
+        "value": 100,
+        "petId": 1763733296307
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:57:30.439Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:57:33.468Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733212453
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:57:39.565Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733296307
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:57:39.565Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733334019
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:57:42.592Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:57:42.592Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733212453
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:57:42.592Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733334019
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:57:45.633Z",
+        "breakableType": "Legendarny",
+        "value": 100,
+        "petId": 1
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:57:45.633Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733212453
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:57:48.664Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:57:51.696Z",
+        "breakableType": "Epicki",
+        "value": 20,
+        "petId": 1763733296307
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:57:54.736Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733296307
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:58:03.921Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733296307
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:58:06.953Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733334019
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:58:19.258Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:58:34.632Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733296307
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:58:34.632Z",
+        "breakableType": "Rzadki",
+        "value": 5,
+        "petId": 1763733334019
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:58:37.685Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733212453
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:58:40.712Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733212453
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:58:46.845Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733296307
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:58:55.994Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733212453
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:59:02.093Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733212453
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:59:05.126Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733212453
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:59:05.126Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733296307
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:59:11.254Z",
+        "breakableType": "Rzadki",
+        "value": 5,
+        "petId": 1763733334019
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:59:17.360Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733296307
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:59:17.360Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733334019
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:59:29.559Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733334019
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:59:32.619Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:59:32.620Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733212453
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:59:32.620Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733296307
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:59:38.729Z",
+        "breakableType": "Rzadki",
+        "value": 5,
+        "petId": 1763733296307
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:59:41.751Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733296307
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:59:47.814Z",
+        "breakableType": "Rzadki",
+        "value": 5,
+        "petId": 1763733212453
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T13:59:53.874Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733212453
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:00:02.968Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733334019
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:00:05.998Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:00:05.998Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733334019
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:00:12.054Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:00:12.054Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733212453
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:00:12.054Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733334019
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:00:15.081Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733296307
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:00:18.127Z",
+        "breakableType": "Rzadki",
+        "value": 5,
+        "petId": 1
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:00:24.194Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733296307
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:00:27.260Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:00:30.319Z",
+        "breakableType": "Epicki",
+        "value": 20,
+        "petId": 1
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:00:30.319Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733296307
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:00:30.319Z",
+        "breakableType": "Epicki",
+        "value": 20,
+        "petId": 1763733334019
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:00:36.466Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733212453
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:00:36.466Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733296307
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:00:39.497Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:00:39.498Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733212453
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:00:39.498Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733334019
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:00:45.650Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733212453
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:00:45.650Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733296307
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:00:45.650Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733334019
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:00:51.778Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733212453
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:00:54.816Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733296307
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:00:54.816Z",
+        "breakableType": "Rzadki",
+        "value": 5,
+        "petId": 1763733334019
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:01:00.874Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:01:00.874Z",
+        "breakableType": "Rzadki",
+        "value": 5,
+        "petId": 1763733296307
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:01:00.874Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733334019
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:01:03.905Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:01:03.905Z",
+        "breakableType": "Legendarny",
+        "value": 100,
+        "petId": 1763733212453
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:01:03.906Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733334019
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:01:06.936Z",
+        "breakableType": "Rzadki",
+        "value": 5,
+        "petId": 1763733296307
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:01:13.034Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:01:25.269Z",
+        "breakableType": "Rzadki",
+        "value": 5,
+        "petId": 1
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:01:25.269Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733334019
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:01:31.344Z",
+        "breakableType": "Epicki",
+        "value": 20,
+        "petId": 1
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:01:34.435Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733296307
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:01:40.617Z",
+        "breakableType": "Rzadki",
+        "value": 5,
+        "petId": 1763733296307
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:01:40.617Z",
+        "breakableType": "Rzadki",
+        "value": 5,
+        "petId": 1763733334019
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:01:46.744Z",
+        "breakableType": "Rzadki",
+        "value": 5,
+        "petId": 1
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:01:46.744Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733334019
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:01:49.778Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:01:49.778Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733212453
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:01:52.815Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:01:55.847Z",
+        "breakableType": "Epicki",
+        "value": 20,
+        "petId": 1763733212453
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:01:55.847Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733334019
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:01:58.875Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733334019
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:02:04.938Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733212453
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:02:14.038Z",
+        "breakableType": "Legendarny",
+        "value": 100,
+        "petId": 1
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:02:14.038Z",
+        "breakableType": "Epicki",
+        "value": 20,
+        "petId": 1763733296307
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:02:17.068Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:02:17.068Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733296307
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:02:17.068Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733334019
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:02:20.103Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733212453
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:02:26.263Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733334019
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:02:32.388Z",
+        "breakableType": "Epicki",
+        "value": 20,
+        "petId": 1763733212453
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:02:32.388Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733296307
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:02:32.388Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733334019
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:02:35.455Z",
+        "breakableType": "Rzadki",
+        "value": 5,
+        "petId": 1763733212453
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:02:38.488Z",
+        "breakableType": "Epicki",
+        "value": 20,
+        "petId": 1
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:02:41.530Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:02:41.530Z",
+        "breakableType": "Legendarny",
+        "value": 100,
+        "petId": 1763733334019
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:02:44.593Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:02:44.593Z",
+        "breakableType": "Rzadki",
+        "value": 5,
+        "petId": 1763733212453
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:02:44.593Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733296307
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:02:44.593Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733334019
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:02:50.681Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733212453
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:02:50.681Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733296307
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:02:53.714Z",
+        "breakableType": "Rzadki",
+        "value": 5,
+        "petId": 1
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:02:53.714Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733334019
+      },
+      {
+        "type": "breakable_destroyed",
+        "timestamp": "2025-11-21T14:02:56.749Z",
+        "breakableType": "Zwykły",
+        "value": 1,
+        "petId": 1763733334019
+      }
+    ],
+    "connected": true,
+    "ws": {},
+    "created": "2025-11-21T13:47:52.096Z",
+    "lastSaved": "2025-11-21T14:02:57.757Z"
+  }
+}
