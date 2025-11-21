@@ -283,4 +283,5 @@ function createNewGame(playerId) {
 app.listen(PORT, () => {
   console.log(`Pet Simulator 99 2.0 backend running on port ${PORT}`);
   console.log(`WebSocket server running on port 8080`);
+
 });
